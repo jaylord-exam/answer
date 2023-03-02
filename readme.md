@@ -37,7 +37,7 @@
 - Run **_php artisan migrate_**
 - Run **_php artisan serve_**
 - Open new terminal
-- Run **_cd ../frontend_**
+- Run **_cd frontend_**
 - Run **_npm install_**
 - Open **.env** and change **VUE_APP_API_URL** to the link of your API (link can be seen after running **_php artisan serve_** on backend)
 - Run **_npm run serve_**
