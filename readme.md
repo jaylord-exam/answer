@@ -2,7 +2,7 @@
 # Jay Lord - Exam
 </div>
 
-<p align="center"><img src="#"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/jaylord-exam/answer/main/frontend/src/assets/profile/download.png"></p>
 
 ## Features
 
