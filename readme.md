@@ -29,7 +29,7 @@
 ## After clone or download this project, please follow the instructions
 
 - Open terminal
-- Clone the repository
+- Clone the repository with **_angit clone https://github.com/jaylord-exam/answer.git_**
 - Run **_cd backend_**
 - Copy **.env.example** file to **.env** and edit **Database** credentials there
 - Run **_composer install_**
