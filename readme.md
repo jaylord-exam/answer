@@ -31,7 +31,7 @@
 - Open terminal
 - Clone the repository with **_git clone https://github.com/jaylord-exam/answer.git_**
 - Run **_cd backend_**
-- Copy **.env.example** file to **.env** and edit **Database** credentials there
+- Copy **.env.example** file to **.env** and edit **Database** credentials
 - Run **_composer install_**
 - Run **_php artisan key:generate_**
 - Run **_php artisan migrate_**
